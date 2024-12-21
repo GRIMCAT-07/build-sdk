@@ -1,8 +1,8 @@
-Codespaces Android SDK CE (Community Edition)
+## Build SDK for Kotatsu App
 ---------------------------------------------
 
 A codespace repository configured to install android
-development tools.
+development tools (for building Kotatsu App)
 
 ## Installed Software
 
