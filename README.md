@@ -1,8 +1,8 @@
-## Build SDK for Kotatsu App
+## Set up SDK for building Kotatsu
 ---------------------------------------------
 
 A codespace repository configured to install android
-development tools (for building Kotatsu App)
+development tools (for building Kotatsu app)
 
 ## Installed Software
 
