@@ -17,13 +17,9 @@ development tools.
 
 ## Usage
 
-This repository can be used to create a codespace,
-by using it as a template for new projects, or
-including it as a submodule in an existing project.
-
 To import as a submodule use 'git submodule add'
 
-    git submodule add https://github.com/dragonx943/sdk-nightly .devcontainer
+    git submodule add https://github.com/KotatsuApp/build-sdk .devcontainer
 
 In theory it is possible to add access to additional
 repositories within a codespace using 'customizations'
