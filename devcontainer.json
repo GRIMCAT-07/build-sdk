@@ -11,7 +11,7 @@
 			"installAnt": false,
 			"version": "17",
 			"jdkDistro": "oracle",
-			"gradleVersion": "latest",
+			"gradleVersion": "latest"
 		},
 		"ghcr.io/balazs23/devcontainers-features/bazel:latest": {
 			"bazelisk": "latest"
