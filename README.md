@@ -8,9 +8,6 @@ development tools (for building Kotatsu app)
     * Ubuntu
     * Bazelisk
     * Gradle
-    * Maven
-    * Ant
-    * Meson
     * Java 17 (Oracle)
     * Android SDK
 
