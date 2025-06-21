@@ -7,16 +7,11 @@
 	"features": {
 		"ghcr.io/devcontainers/features/java:latest": {
 			"installGradle": true,
-			"installMaven": true,
-			"installAnt": true,
+			"installMaven": false,
+			"installAnt": false,
 			"version": "17",
 			"jdkDistro": "oracle",
 			"gradleVersion": "latest",
-			"mavenVersion": "latest",
-			"antVersion": "latest"
-		},
-		"ghcr.io/devcontainers-contrib/features/meson-asdf:latest": {
-			"version": "latest"
 		},
 		"ghcr.io/balazs23/devcontainers-features/bazel:latest": {
 			"bazelisk": "latest"
