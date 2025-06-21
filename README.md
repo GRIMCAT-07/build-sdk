@@ -5,8 +5,7 @@ development tools (for building Kotatsu app)
 
 ## Installed Software
 
-    * Ubuntu
-    * Bazelisk
+    * Ubuntu (22.04 - Jammy)
     * Gradle
     * Java 17 (Oracle)
     * Android SDK
